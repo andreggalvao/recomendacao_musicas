@@ -1,4 +1,4 @@
-# recomendacao_musicas
+# Recomendador de música
 
 ![image](https://github.com/andreggalvao/recomendacao_musicas/blob/main/baixados.png?raw=true)
 
