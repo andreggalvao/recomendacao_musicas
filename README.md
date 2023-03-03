@@ -1,4 +1,8 @@
 # recomendacao_musicas
+
+![image](https://github.com/andreggalvao/recomendacao_musicas/blob/main/baixados.png?raw=true)
+
+
 Projeto para estudar sobre sistemas de recomendação
 
 Foi utilizado um banco de dados do spotify para o trabalho, atividades realizadas:
